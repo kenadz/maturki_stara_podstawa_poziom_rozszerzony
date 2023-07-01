@@ -1,0 +1,20 @@
+ID_uslugi;nazwa uslugi
+B1;biuro 10
+B2;biuro 20
+B3;biuro 100
+BD;backup midi
+BN;backup mini
+BX;backup maxi
+DS;dedykowany serwer
+FT;ftp
+HB;hosting podstawowy
+HS;hostring starter
+HU;hosting nielimitowany
+HW;hosting serwer
+PF;poczta firmowa
+PI;poczta indywidualna
+PP;poczta profesjonalna
+PR;poczta rodzinna
+SD;serwer www medium
+SM;serwer www maxi
+SS;serwer www mikro

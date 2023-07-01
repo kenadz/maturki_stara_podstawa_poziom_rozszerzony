@@ -1,0 +1,403 @@
+ID_klienta;klient;miejscowosc
+E1007;Szkola Podstawowa 92;Legionowo
+E1012;Szkola Podstawowa 31;Siedlce
+E1014;Technikum 26;Poraj
+E1019;Szkola Wyzsza;Kartuzy
+E1020;Liceum Xxxii;Oborniki
+E1021;Szkola Podstawowa 112;Sandomierz
+E1030;Szkola Podstawowa 4;Siemiatycze
+E1031;Szkola Podstawowa 2;Leszno
+E1052;Szkola Podstawowa 100;Borkowo
+E1053;Liceum VIII;Poznan
+E1056;Szkola Wyzsza;Leszno
+E1072;Szkola Podstawowa 126;Sosnowiec
+E1073;Szkola Podstawowa 16;Leszno
+E1074;Szkola Podstawowa 93;Wysokie
+E1088;Szkola Podstawowa 54;Warszawa
+E1091;Szkola Podstawowa 145;Leszno
+E1095;Szkola Podstawowa 146;Warszawa
+E1096;Liceum I;Koronowo
+E1097;Szkola Podstawowa 72;Piaski
+E1100;Szkola Wyzsza;Nowa
+E1102;Szkola Podstawowa 49;Legionowo
+E1107;Szkola Podstawowa 29;Boryszew
+E1116;Szkola Wyzsza;Sosnowiec
+E1117;Technikum 30;Wronki
+E1124;Szkola Podstawowa 4;Gryfice
+E1127;Technikum 21;Pobierowo
+E1136;Szkola Podstawowa 144;Legionowo
+E1150;Szkola Podstawowa 124;Borowe
+E1155;Szkola Podstawowa 28;Pisz
+E1161;Szkola Podstawowa 66;Warszawa
+E1168;Szkola Podstawowa 92;Konin
+E1191;Szkola Podstawowa 47;Borze
+E1199;Liceum XII;Zawichost
+E1209;Szkola Podstawowa 139;Dukla
+E1221;Szkola Podstawowa 111;Opole
+E1228;Technikum 34;Konin
+E1234;Liceum XXX;Bogdanowo
+E1245;Szkola Podstawowa 50;Warszawa
+E1249;Szkola Wyzsza;Ruda
+E1258;Szkola Podstawowa 50;Brusy
+E1262;Szkola Podstawowa 38;Zielona
+E1267;Szkola Podstawowa 71;Sieradz
+E1270;Szkola Podstawowa 40;Jaworzno
+E1277;Szkola Podstawowa 31;Podlesie
+E1287;Szkola Podstawowa 133;Bobry
+E1290;Szkola Podstawowa 104;Opole
+E1291;Szkola Podstawowa 149;Gniezno
+E1298;Szkola Wyzsza;Nowa
+E1303;Szkola Wyzsza;Ruda
+E1306;Szkola Podstawowa 119;Katowice
+E1307;Technikum 48;Kalisz
+E1309;Technikum 31;Czersk
+E1310;Technikum 50;Suchorze
+E1313;Technikum 14;Barlinek
+E1329;Szkola Podstawowa 105;Lesno
+E1336;Liceum Xxi;Legnica
+E1337;Szkola Podstawowa 86;Bielany
+E1348;Liceum XV;Zakopane
+E1355;Szkola Podstawowa 64;Sanok
+E1374;Liceum Xlviii;Jarocin
+E1383;Szkola Podstawowa 123;Radomsko
+E1386;Szkola Podstawowa 72;Opole
+E1400;Szkola Podstawowa 12;Trzebnica
+E1409;Szkola Podstawowa 13;Starachowice
+E1410;Szkola Podstawowa 131;Nowogard
+E1413;Szkola Podstawowa 34;Olecko
+E1418;Liceum XII;Tuchola
+E1422;Szkola Podstawowa 73;Legionowo
+E1424;Szkola Podstawowa 106;Legionowo
+E1435;Szkola Wyzsza;Starogard
+E1438;Technikum 5;Gdynia
+E1441;Szkola Podstawowa 128;Borukowo
+E1445;Szkola Podstawowa 36;Bogate
+E1451;Szkola Wyzsza;Koszalin
+E1457;Szkola Podstawowa 26;Bobino
+E1483;Szkola Podstawowa 135;Opole
+E1484;Liceum XXXIX;Mogilno
+E1486;Szkola Podstawowa 55;Poniatowa
+E1499;Liceum XlI;Lublin
+F1000;Apteka 4;Warszawa
+F1006;Przedsiebiorstwo Produkcyjno-Uslugowo-Handlowe 23;Nowa
+F1029;Przedsiebiorstwo Produkcyjno-Uslugowo-Handlowe 15;Bogdanowo
+F1035;Przedsiebiorstwo Handlowo-Uslugowe 5;Legionowo
+F1037;Przedsiebiorstwo Produkcyjno-Uslugowo-Handlowe 11;Koronowo
+F1038;Przedsiebiorstwo Handlowo-Uslugowe 24;Starachowice
+F1040;Przedsiebiorstwo Produkcyjno-Uslugowo-Handlowe 3;Kalisz
+F1041;Apteka 1;Katowice
+F1047;Przedsiebiorstwo Handlowo-Uslugowe 31;Gniezno
+F1048;Salon Fryzjerski 2;Leszno
+F1082;Sklep 8;Gliwice
+F1084;Zaklad Uslugowo-Budowlany 3;Kartuzy
+F1101;Restauracje I Delikatesy Borowka;Ruda
+F1104;Przedsiebiorstwo Handlowo-Uslugowe 12;Leszno
+F1106;Przedsiebiorstwo Produkcyjno-Uslugowo-Handlowe 20;Konin
+F1115;Sklep 10;Gliwice
+F1118;Sklep 7;Bogdanowo
+F1123;Zaklad Uslugowo-Budowlany 2;Ruda
+F1126;Sklep 5;Zawichost
+F1129;Zaklad Uslugowo-Budowlany 1;Nowa
+F1139;Sklep 11;Gdynia
+F1141;Przedsiebiorstwo Handlowo-Uslugowe 27;Gryfice
+F1144;Przedsiebiorstwo Handlowo-Uslugowe 32;Legnica
+F1145;Firma Handlowa 2;Siedlce
+F1148;Przedsiebiorstwo Produkcyjno-Uslugowo-Handlowe 5;Wronki
+F1153;Przedsiebiorstwo Handlowo-Uslugowe 14;Borowe
+F1158;Sklep 12;Pobierowo
+F1162;Przedsiebiorstwo Produkcyjno-Uslugowo-Handlowe 1;Jarocin
+F1164;Przedsiebiorstwo Handlowo-Uslugowe 26;Nowogard
+F1167;Przedsiebiorstwo Handlowo-Uslugowe 3;Opole
+F1169;Apteka 5;Legionowo
+F1173;Przedsiebiorstwo Handlowo-Uslugowe 11;Zielona
+F1190;Przedsiebiorstwo Produkcyjno-Uslugowo-Handlowe 18;Tuchola
+F1203;Przedsiebiorstwo Handlowo-Uslugowe 7;Olecko
+F1204;Sklep 13;Konin
+F1205;Firma Handlowa 1;Piaski
+F1211;Przedsiebiorstwo Handlowo-Uslugowe 28;Opole
+F1216;Przedsiebiorstwo Handlowo-Uslugowe 18;Legionowo
+F1218;Przedsiebiorstwo Handlowo-Uslugowe 19;Bielany
+F1223;Przedsiebiorstwo Produkcyjno-Uslugowo-Handlowe 13;Zawichost
+F1224;Biuro Podrozy 1;Sosnowiec
+F1226;Przedsiebiorstwo Handlowo-Uslugowe 22;Radomsko
+F1229;Przedsiebiorstwo Produkcyjno-Uslugowo-Handlowe 9;Sosnowiec
+F1241;Przedsiebiorstwo Produkcyjno-Uslugowo-Handlowe 14;Mogilno
+F1253;Przedsiebiorstwo Handlowo-Uslugowe 29;Warszawa
+F1256;Zaklad Uslugowo-Budowlany 5;Warszawa
+F1257;Przedsiebiorstwo Produkcyjno-Uslugowo-Handlowe 10;Oborniki
+F1264;Przedsiebiorstwo Produkcyjno-Uslugowo-Handlowe 4;Suchorze
+F1271;Przedsiebiorstwo Handlowo-Uslugowe 23;Bogate
+F1278;Przedsiebiorstwo Produkcyjno-Uslugowo-Handlowe 16;Gliwice
+F1281;"Firma Handlowo-Budowlana ""Remont""";Poniatowa
+F1288;Przedsiebiorstwo Produkcyjno-Uslugowo-Handlowe 2;Pobierowo
+F1292;Przedsiebiorstwo Handlowo-Uslugowe 15;Borukowo
+F1299;Przedsiebiorstwo Handlowo-Uslugowe 4;Warszawa
+F1305;Przedsiebiorstwo Produkcyjno-Uslugowo-Handlowe 7;Poraj
+F1308;Sklep 2;Legionowo
+F1311;Przedsiebiorstwo Handlowo-Uslugowe 8;Konin
+F1316;Przedsiebiorstwo Produkcyjno-Uslugowo-Handlowe 17;Lublin
+F1322;Przedsiebiorstwo Handlowo-Uslugowe 9;Trzebnica
+F1323;Sklep 6;Zakopane
+F1327;Gospodarstwo Rolne Halina;Opole
+F1333;Przedsiebiorstwo Handlowo-Uslugowe 10;Leszno
+F1334;Apteka 3;Sandomierz
+F1340;Zaklad Uslugowo-Budowlany 6;Legionowo
+F1342;Przedsiebiorstwo Produkcyjno-Uslugowo-Handlowe 19;Gdynia
+F1350;Przedsiebiorstwo Produkcyjno-Uslugowo-Handlowe 22;Koszalin
+F1358;Biuro Podrozy 3;Lesno
+F1359;Przedsiebiorstwo Produkcyjno-Uslugowo-Handlowe 12;Zakopane
+F1368;Przedsiebiorstwo Handlowo-Uslugowe 30;Legionowo
+F1369;Przedsiebiorstwo Handlowo-Uslugowe 1;Dukla
+F1370;Przedsiebiorstwo Produkcyjno-Uslugowo-Handlowe 20;Starogard
+F1376;Zaklad Uslugowo-Budowlany 8;Warszawa
+F1382;Przedsiebiorstwo Handlowo-Uslugowe 16;Boryszew
+F1390;Przedsiebiorstwo Produkcyjno-Uslugowo-Handlowe 8;Czersk
+F1391;Przedsiebiorstwo Budowy Drog 2;Wysokie
+F1393;Salon Fryzjerski 1;Kartuzy
+F1394;Przedsiebiorstwo Handlowo-Uslugowe 6;Siemiatycze
+F1395;Przedsiebiorstwo Handlowo-Uslugowe 20;Bobino
+F1402;Przedsiebiorstwo Handlowo-Uslugowe 13;Borkowo
+F1412;Przedsiebiorstwo Handlowo-Uslugowe 2;Brusy
+F1421;Przedsiebiorstwo Handlowo-Uslugowe 17;Borze
+F1429;Sklep 9;Bogdanowo
+F1430;Sklep 14;Pobierowo
+F1431;Sklep 1;Legionowo
+F1436;Przedsiebiorstwo Budowy Drog 1;Pisz
+F1439;Sklep 4;Zakopane
+F1442;Owoce Warzywa Art. Ogolnospozywcze;Sieradz
+F1444;Sklep 3;Legionowo
+F1446;Przedsiebiorstwo Produkcyjno-Uslugowo-Handlowe 6;Barlinek
+F1447;Przedsiebiorstwo Handlowo-Uslugowe 21;Bobry
+F1454;Zaklad Uslugowo-Budowlany 4;Opole
+F1461;Biuro Podrozy 6;Warszawa
+F1462;Biuro Podrozy 4;Podlesie
+F1464;Biuro Podrozy 5;Leszno
+F1466;Zaklad Uslugowo-Budowlany 7;Opole
+F1467;Apteka 2;Opole
+F1477;Sklep 15;Konin
+F1478;Biuro Podrozy 2;Jaworzno
+F1491;Naprawa Kas;Legionowo
+F1495;Salon Mody;Sanok
+I1001;Jan Wolny;Leszno
+I1002;Antoni Jaroszko;Zakopane
+I1003;Pawel Jota;Poniatowa
+I1005;Katarzyna Dobra;Pisz
+I1008;Jerzy Blazuk;Katowice
+I1009;Maria Kowalska;Wysokie
+I1010;Jacek Nowak;Warszawa
+I1011;Iga Marczak;Bielany
+I1015;Pawel Putynkowsky;Warszawa
+I1017;Tomasz Danielewicz;Legionowo
+I1018;Magdalena Turek;Katowice
+I1022;Tomasz Szarak;Konin
+I1023;Stanislaw Duchnicz;Leszno
+I1024;Mateusz Adamiak;Gdynia
+I1025;Ewa Kry˜;Nowogard
+I1026;Waclaw Brychcy;Gdynia
+I1027;Piotr Kwiatkowski;Warszawa
+I1028;Roman Bak;Legionowo
+I1032;Alina Florczak;Suchorze
+I1034;Izabela Olob;Leszno
+I1036;Malgorzata Chadzynska;Konin
+I1039;Bogdan Graczyk;Borze
+I1042;Aleksandra Kubacka;Borkowo
+I1043;Paulina Dobra;Legionowo
+I1044;Patryk Graczyk;Bogdanowo
+I1045;Zaneta Zajac;Radomsko
+I1046;Tomasz Hola;Bogate
+I1049;Pawel Wojciech;Wronki
+I1050;Barbara Florczak;Bielany
+I1055;Honorata Nowak;Radomsko
+I1057;Patrycja Nowak;Trzebnica
+I1058;Tomasz Odrobny;Legionowo
+I1059;Kinga Ruby;Kalisz
+I1060;Katarzyna Cichy;Barlinek
+I1061;Barbara Wegrzynowicz;Sanok
+I1064;Wojciech Wilczak;Borkowo
+I1065;Radoslaw Latarowski;Olecko
+I1067;Dawid Bocian;Poraj
+I1070;Marta Kaczmarek;Jaworzno
+I1075;Andrzej Milik;Gryfice
+I1076;Izabela Nowak;Radomsko
+I1077;Jolanta Bak;Konin
+I1078;Mateusz Filipiak;Legionowo
+I1080;Marcin Urok;Sanok
+I1085;Weronika Szewczyk;Zawichost
+I1086;Jerzy Sagan;Siemiatycze
+I1087;Tomasz Kesicki;Piaski
+I1089;Wojciech Dziatwa;Pisz
+I1090;Rafal Jarzabek;Jaworzno
+I1093;Marcin Wozniak;Lesno
+I1098;Anna Krzeszowska;Legionowo
+I1099;Marcin Hinc;Opole
+I1103;Karolina Nowak;Brusy
+I1105;Wioletta Zmuda;Nowa
+I1108;Tomasz Tudka;Jarocin
+I1109;Mariola Kawecki;Sandomierz
+I1110;Joanna Nabim;Warszawa
+I1111;Przemyslaw Labiak;Poznan
+I1112;Anna Icebake;Pobierowo
+I1113;Marcin Potomski;Oborniki
+I1114;Tomasz Piasecki;Warszawa
+I1119;Dorota Onuszko;Brusy
+I1120;Krzysztof Bocian;Siemiatycze
+I1122;Agnieszka Gwozdz;Borowe
+I1125;Michal Woloszczuk;Sandomierz
+I1132;Hanna Fajfer;Dukla
+I1134;Paulina Antkowiak;Bobino
+I1135;Elzbieta Wrobel;Barlinek
+I1137;Ewa Iwanski;Kartuzy
+I1140;Przemyslaw Tomczak;Bobino
+I1142;Monika Kowalewska;Warszawa
+I1146;Bartlomiej Piotrowski;Starachowice
+I1149;Joanna Olejarz;Pobierowo
+I1151;Paulina Filipiak;Konin
+I1152;Elzbieta Potocka;Opole
+I1154;Marzena Radzik;Gdynia
+I1156;Kamila Wigura;Legionowo
+I1157;Ludmila Lewandowski;Leszno
+I1159;Agnieszka Makowska;Gliwice
+I1163;Ida Florczak;Pisz
+I1170;Jaroslaw Szkudlarek;Borukowo
+I1171;Krzysztof Nowicki;Opole
+I1174;Anna Gorska;Opole
+I1175;Katarzyna Nowak;Czersk
+I1176;Anna Janiak;Nowa
+I1177;Jerzy Sobczak;Podlesie
+I1178;Przemyslaw Sarnowski;Starachowice
+I1179;Tomasz Wojcicki;Borukowo
+I1181;Mariusz Chrzanowski;Sieradz
+I1182;Iwona Dobra;Mogilno
+I1183;Barbara Palmowska;Legionowo
+I1185;Jakub Packa;Legionowo
+I1186;Olga Pacha;Konin
+I1187;Paulina Czyz;Sosnowiec
+I1188;Halina Olszowska;Gniezno
+I1189;Justyna Hipcop;Pobierowo
+I1192;Slawomir Krawczyk;Konin
+I1193;Monika Szymczak;Ruda
+I1194;Katarzyna Zelek;Bobry
+I1195;Janusz Zynacki;Sosnowiec
+I1196;Bernard Hadka;Zakopane
+I1200;Marta Suminska;Warszawa
+I1201;Magdalena Surynt;Legionowo
+I1202;Maciej Lenartowicz;Legionowo
+I1206;Lidia Guzik;Wysokie
+I1212;Tadeusz Radkiewicz;Opole
+I1213;Agnieszka Gorna;Siedlce
+I1215;Jakub Wielebny;Warszawa
+I1217;Lukasz Pawlowska;Konin
+I1222;Anna Graczyk;Bogdanowo
+I1225;Alicja Krzyzaniak;Wysokie
+I1227;Agnieszka Jadczak;Legionowo
+I1232;Ewa Janicka;Borowe
+I1235;Krzysztof Merda;Boryszew
+I1237;Barbara Gaweda;Leszno
+I1240;Wanda Lisiewicz;Piaski
+I1247;Weronika Einstein;Bielany
+I1248;Andrzej Idyka;Olecko
+I1250;Przemyslaw Debkowski;Borukowo
+I1252;Anita Tonela;Katowice
+I1254;Malgorzata Rownicki;Sosnowiec
+I1255;Jedrzej Chojnicki;Oborniki
+I1259;Barbara Pylit;Siedlce
+I1260;Marek Kazus;Borze
+I1261;Rafal Prymus;Zielona
+I1263;Przemyslaw Gora;Warszawa
+I1266;Tomasz Kemak;Trzebnica
+I1269;Malgorzata Golebiowska;Starachowice
+I1272;Lech Skora;Bobry
+I1273;Katarzyna Szewczyk;Leszno
+I1275;Wladyslaw Tomaszewski;Poniatowa
+I1279;Marcin Sprzeczka;Poraj
+I1282;Katarzyna Wi˜niewska;Kartuzy
+I1283;Andrzej Krawczyk;Nowa
+I1285;Aleksandra Szczeglik;Bogdanowo
+I1286;Wojciech Gorski;Leszno
+I1289;Anna Aniol;Jarocin
+I1296;Konrad Jasienica;Sieradz
+I1297;Alicja Bielicka;Kartuzy
+I1300;Mikolaj Puchalski;Warszawa
+I1301;Leszek Wyrobski;Zakopane
+I1302;Ida Chojnicka;Poniatowa
+I1314;Karol Rychly;Siedlce
+I1315;Anna Skrzypek;Boryszew
+I1318;Kamila Kedzorek;Sandomierz
+I1321;Kamilla Kubik;Legionowo
+I1324;Marian Antkowiak;Legionowo
+I1325;Danuta Lapeta;Koszalin
+I1326;Izabella Janiak;Gryfice
+I1328;Jakub Dobry;Bogate
+I1331;Tomasz Makarski;Sosnowiec
+I1332;Konrad Dobry;Lublin
+I1335;Maria Wrobel;Lublin
+I1343;Radoslaw Krenz;Podlesie
+I1344;Anna Grol;Opole
+I1347;Wojciech Nowak;Sieradz
+I1351;Jacek Padoski;Dukla
+I1353;Magdalena Siarkowska;Leszno
+I1356;Konrad Sroka;Tuchola
+I1357;Anna Bielicka;Legnica
+I1360;Jakub Kin;Borowe
+I1361;Wojciech Kos;Legionowo
+I1362;Kalina Wardyn;Dukla
+I1363;Maksym Zajac;Leszno
+I1364;Agnieszka Zamiara;Bobry
+I1365;Monika Kaczmarek;Gniezno
+I1366;Katarzyna Lyczywek;Koszalin
+I1371;Maciej Lukaszewicz;Bogate
+I1372;Bartosz Kowalski;Sosnowiec
+I1375;Joanna Loworska;Brusy
+I1377;Dariusz Skowronski;Ruda
+I1381;Kacper Nowak;Siemiatycze
+I1384;Dawid Wroz;Bogdanowo
+I1387;Magdalena Wlazly;Koronowo
+I1388;Katarzyna Florczak;Borze
+I1389;Marek Fiskus;Nowogard
+I1392;Krzysztof Halla;Zielona
+I1396;Mariola Fajfer;Legionowo
+I1398;Patrycja Wojnarowski;Ruda
+I1401;Katarzyna Bak;Legnica
+I1404;Jakub Moras;Zielona
+I1405;Renata Nowak;Opole
+I1411;Marcin Fekaz;Opole
+I1414;Zaneta Mawil;Warszawa
+I1416;Martyna Kolumb;Legionowo
+I1423;Zaneta Mawil;Koronowo
+I1425;Jakub Lameta;Kalisz
+I1426;Paulina Nowak;Gliwice
+I1428;Aleksandra Halba;Trzebnica
+I1432;Jakub Gorecki;Tuchola
+I1433;Jolanta Lukasiewicz;Opole
+I1434;Magdalena Wojcik;Suchorze
+I1437;Agnieszka Klimas;Starogard
+I1440;Marta Rychla;Warszawa
+I1443;Anna Lewkowicz;Opole
+I1448;Jan Czekala;Opole
+I1449;Jolanta Bak;Nowa
+I1450;Marcin Zarzycki;Gliwice
+I1455;Pawel Mosiolek;Opole
+I1458;Waclaw Marszalek;Legionowo
+I1459;Joanna Szarak;Starogard
+I1460;Piotr Kowalska;Zawichost
+I1463;Hanna Nowak;Wronki
+I1469;Mariola Nowak;Opole
+I1470;Filip Korwek;Sanok
+I1471;Piotr Sumili;Bobino
+I1472;Pawel Arcisz;Borkowo
+I1474;Damian Skrzypek;Pobierowo
+I1475;Katarzyna Nowak;Boryszew
+I1476;Halina Chryc;Leszno
+I1480;Adam Zapotoczny;Piaski
+I1481;Piotr Bielicki;Zawichost
+I1482;Paulina Szarak;Zakopane
+I1485;Barbara Wator;Jaworzno
+I1487;Anna Zur;Lesno
+I1488;Artur Markulak;Ruda
+I1489;Slawomir Filipski;Warszawa
+I1490;Maciej Wolniewicz;Podlesie
+I1492;Katarzyna Dzika;Leszno
+I1493;Agnieszka Filipiak;Mogilno
+I1496;Waldemar Kafik;Czersk
+I1497;Kacper Welnik;Lesno
+I1498;Joanna Skrzypek;Olecko
